@@ -1,4 +1,4 @@
-# Cadastro de Funcionários utilizando Servidor, Banco de dados, Azure Tables e App Service no Microsoft Azure.
+# Cadastro de Funcionários no Microsoft Azure.
 
 ## Contexto
 Você precisa construir um sistema de RH, onde para essa versão inicial do sistema o usuário poderá cadastrar os funcionários de uma empresa. 
