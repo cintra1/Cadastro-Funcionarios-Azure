@@ -5,6 +5,12 @@ Você precisa construir um sistema de RH, onde para essa versão inicial do sist
 
 Essa cadastro precisa precisa ter um CRUD, ou seja, deverá permitir obter os registros, criar, salvar e deletar esses registros. A sua aplicação também precisa armazenar logs de toda e qualquer alteração que venha a ocorrer com um funcionário.
 
+## Ambiente
+Este é um diagrama do ambiente que deverá ser montado no Microsoft Azure, utilizando o App Service para a API, SQL Database para o banco relacional e Azure Table para armazenar os logs.
+
+![Diagrama da classe Funcionario](Imagens/diagrama_api.png)
+
+
 ## Premissas
 
 A sua classe principal, a classe Funcionario e a FuncionarioLog, deve ser a seguinte:
@@ -49,11 +55,3 @@ Esse é o schema (model) de Funcionario, utilizado para passar para os métodos 
 }
 ```
 
-## Ambiente
-Este é um diagrama do ambiente que deverá ser montado no Microsoft Azure, utilizando o App Service para a API, SQL Database para o banco relacional e Azure Table para armazenar os logs.
-
-![Diagrama da classe Funcionario](Imagens/diagrama_api.png)
-
-
-## Solução
-O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima, incluindo a sua publicação na nuvem.
