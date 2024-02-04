@@ -1,8 +1,4 @@
-# DIO - Trilha .NET - Nuvem com Microsoft Azure
-www.dio.me
-
-## Desafio de projeto
-Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de Nuvem com Microsoft Azure, da trilha .NET da DIO.
+# Cadastro de Funcionários utilizando Servidor, Banco de dados, Azure Tables e App Service no Microsoft Azure.
 
 ## Contexto
 Você precisa construir um sistema de RH, onde para essa versão inicial do sistema o usuário poderá cadastrar os funcionários de uma empresa. 
