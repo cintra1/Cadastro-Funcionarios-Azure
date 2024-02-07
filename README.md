@@ -6,7 +6,7 @@ Você precisa construir um sistema de RH, onde para essa versão inicial do sist
 Essa cadastro precisa precisa ter um CRUD, ou seja, deverá permitir obter os registros, criar, salvar e deletar esses registros. A sua aplicação também precisa armazenar logs de toda e qualquer alteração que venha a ocorrer com um funcionário.
 
 ## Ambiente
-Este é um diagrama do ambiente que deverá ser montado no Microsoft Azure, utilizando o App Service para a API, SQL Database para o banco relacional e Azure Table para armazenar os logs.
+Este é um diagrama do ambiente que foi montado no Microsoft Azure, utilizando o App Service para a API, SQL Database para o banco relacional e Azure Table para armazenar os logs.
 
 ![Diagrama da classe Funcionario](Imagens/diagrama_api.png)
 
